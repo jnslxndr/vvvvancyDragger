@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv40beta22.dtd" >
    <PATCH nodename="C:\Dokumente und Einstellungen\Administrator\Desktop\dragAndSlide jens\dragAndSlide\fancyDragger (Animation) help.v4p" componentmode="InAWindow">
-   <BOUNDS height="13455" left="105" top="60" type="Window" width="8355">
+   <BOUNDS height="13455" left="0" top="0" type="Window" width="8355">
    </BOUNDS>
    <NODE hiddenwhenlocked="1" id="46" nodename="Transform (Transform 2d)">
    <BOUNDS height="0" left="810" top="8730" type="Node" width="0">
